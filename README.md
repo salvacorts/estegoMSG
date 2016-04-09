@@ -2,7 +2,7 @@
 
 Oculta y Revela mensajes en imágenes PGM o PPM
 
-Proyecto desarrollado junto a [Ruben58]([I'm an inline-style link](https://www.google.com))
+Proyecto desarrollado junto a [Ruben58](https://github.com/ruben58)
 
 ###Uso:
 
