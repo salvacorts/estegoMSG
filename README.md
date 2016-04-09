@@ -4,8 +4,8 @@ Oculta y Revela mensajes en imágenes PGM o PPM
 
 ###Uso:
 
--*Ocultar:* `$ ./bin/ocultar`
--*Revelar:* `$ ./bin/revelar`
+- *Ocultar:* `$ ./bin/ocultar`
+- *Revelar:* `$ ./bin/revelar`
 
 ###Compilación:
 
